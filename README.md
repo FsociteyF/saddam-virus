@@ -28,7 +28,7 @@ Use it **at your own risk** and only in safe environments.
 
 ---
 
-# 🇸🇦 فيروس صدام حسين 
+# 🇮🇶 فيروس صدام حسين 
 
 ![شكل الفايروس](https://github.com/FsociteyF/saddam-virus/blob/main/saddamm.jpg)
 
