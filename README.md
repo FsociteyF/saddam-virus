@@ -1,6 +1,6 @@
 # 🇮🇶 Saddam Hussein Virus 
 
-![Virus Preview](put-your-image-link-here)
+![Virus Preview](https://github.com/FsociteyF/saddam-virus/blob/main/saddamm.jpg)
 
 A prank "virus" made using Python to spam a photo and audio of Saddam Hussein with pop-up messages. This project is made only for **joke purposes**, not harmful at all, and does **not** cause any real damage.
 
@@ -30,7 +30,7 @@ Use it **at your own risk** and only in safe environments.
 
 # 🇸🇦 فيروس صدام حسين 
 
-![شكل الفايروس](ضع_رابط_الصورة_هنا)
+![شكل الفايروس](https://github.com/FsociteyF/saddam-virus/blob/main/saddamm.jpg)
 
 فايروس ترفيهي وهمي بلغة بايثون، يقوم بتشغيل صورة وأغنية صدام حسين بشكل متكرر مع رسائل منبثقة.
 
